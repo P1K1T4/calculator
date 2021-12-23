@@ -1,2 +1,1 @@
-# calculator
-MyCalculator
+# Calculator
